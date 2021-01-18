@@ -45,7 +45,7 @@
                             </p> 
                         </div>
                         <div class="col m-auto">
-                            <img class="img-fluid" src="img/github_1.jpg" alt="" />
+                            <img class="img-fluid" src="../plugins/img/github_1.jpg" alt="" />
                         </div>
                     </div>
                     <br />
@@ -83,10 +83,10 @@
                     <br />
                     <h2 class="text-center badge-pill badge-secondary p-sm-2">IDEs E PROGRAMAS PARA UTILIZAÇÃO DO GIT: </h2>
                     <div class="row">
-                        <div class="col-3"><img class="img-fluid" src="img/beans.png" alt="" /></div>
-                        <div class="col-3"><img class="img-fluid" src="img/logo-eclipse.png" alt="" /></div>
-                        <div class="col-3"><img class="img-fluid" src="img/vscode.jpg" alt="" /></div>
-                        <div class="col-3"><img class="img-fluid" src="img/git.jpg" alt="" /></div>
+                        <div class="col-3"><img class="img-fluid" src="../plugins/img/beans.png" alt="" /></div>
+                        <div class="col-3"><img class="img-fluid" src="../plugins/img/logo-eclipse.png" alt="" /></div>
+                        <div class="col-3"><img class="img-fluid" src="../plugins/img/vscode.jpg" alt="" /></div>
+                        <div class="col-3"><img class="img-fluid" src="../plugins/img/git.jpg" alt="" /></div>
                     </div>
                     <div class="row badge-primary p-sm-2">
                         <div class="col">
